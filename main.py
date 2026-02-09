@@ -188,4 +188,5 @@ if __name__ == "__main__":
         pass
 
     app = AdvancedDesktopCandle(root)
+
     root.mainloop()
